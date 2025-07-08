@@ -1,2 +1,3 @@
 # Bad-Apple-But-HTML-Quine
-WIP
+
+https://mogamoga1024.github.io/Bad-Apple-But-HTML-Quine/
